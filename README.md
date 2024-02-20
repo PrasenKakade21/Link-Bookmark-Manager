@@ -22,6 +22,6 @@ Helps Organize and Manage Links and Bookmarks.
 
 To use this Application simple download the Main.exe file in [.\dist](https://github.com/PrasenKakade21/Link-Bookmark-Manager/tree/master/dist)
 
-Application Data Stored in
+Application Data is Stored in
 C:\ProgramData\LinkManager\LinkManager.json
 
