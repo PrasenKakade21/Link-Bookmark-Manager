@@ -20,7 +20,7 @@ Helps Organize and Manage Links and Bookmarks.
 
 ## Documentation
 
-To use this Application simple download the LinkManager.exe file in [.\dist](https://github.com/PrasenKakade21/Link-Bookmark-Manager/tree/master/dist)
+To use this Application simple download the Main.exe file in [.\dist](https://github.com/PrasenKakade21/Link-Bookmark-Manager/tree/master/dist)
 
 Application Data Stored in
 C:\ProgramData\LinkManager\LinkManager.json
